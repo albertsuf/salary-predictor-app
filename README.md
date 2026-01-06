@@ -3,10 +3,7 @@ This repository contains a machine learning–based web application designed to 
 The project demonstrates the practical implementation of a complete machine learning pipeline along with deployment using Streamlit.
 
 **Tech Stack**
-Python
-Streamlit
-Pandas
-Scikit-learn
+Python, Streamlit, Pandas, Scikit-learn
 
 **Machine Learning Implementation**
 
