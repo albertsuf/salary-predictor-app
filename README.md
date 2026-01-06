@@ -22,3 +22,10 @@ This prevents repeated training during application reruns and ensures fast predi
 
 **Deployment**
 The application is deployed on the Streamlit platform, allowing users to interact with the model through a browser-based interface and receive real-time salary predictions.
+
+**Live Application**
+
+The application is deployed using Streamlit and can be accessed here:
+
+https://salary-predictor-app-a3o5ynw7qxtbjuh8pjgtz8.streamlit.app/
+
